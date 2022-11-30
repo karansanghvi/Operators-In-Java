@@ -1,4 +1,4 @@
-# Operators-In-Jaav
+# Operators-In-Java
 This repository is on different operators in java programming. 
 
 Programs in this directory-
